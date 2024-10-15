@@ -6,10 +6,10 @@ This Jupyter Notebook-based project is a Phishing Website Detector that employs 
 
 | Algorithm            | Accuracy | F-score | Recall | Precision |
 |----------------------|----------|---------|--------|-----------|
-| Gradient Boost       | --| --| --| --|
-| Random Forest        | --| --| --| --|
-| Decision Tree        | --| --| --| --|
-| K-nearest neighbor   | --| --| --| --|
+| Gradient Boost       | 0.96| 0.95| 0.96| 0.96|
+| Random Forest        | 0.97| 0.96| 0.95| 0.97|
+| Decision Tree        | 0.96| 0.95| 0.96| 0.95|
+| K-nearest neighbor   | 0.96| 0.95| 0.95| 0.96|
 
 ## About Phishing Websites
 
